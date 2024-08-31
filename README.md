@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 🐦 [twitter][twitter] **|** 
 📺 [youtube][youtube] **|** 
 🎥 [twitch][twitch] **|**  
-👔 [linkedin][linkedin] **|**
+👔 [linkedin][linkedin] 
 
 [banner]: https://raw.githubusercontent.com/bradgarropy/bradgarropy/master/banner.png
 [votewise]: https://votewise.net/#!/welcome
