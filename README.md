@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
 📺 [youtube][youtube] **|** 
-🎥 [twitch][twitch] **|**  
-👔 [linkedin][linkedin] 
+🎥 [twitch][twitch] **|**
+👔 [linkedin][linkedin]
 
 [banner]: https://raw.githubusercontent.com/bradgarropy/bradgarropy/master/banner.png
 [votewise]: https://votewise.net/#!/welcome
