@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 [![bg][banner]][website]
 
-### an always curious web-dev-head, currently voluteering at [votewise][votewise] who likes neovim and typing in lowercase
+### an always curious neovim enjoyer, currently voluteering at [votewise][votewise]. hiring? reach me anytime 👇.
 
 👨🏼‍💻 building [swrrvr.dev][website]  
 🧠 learning how to build SaaS products  
