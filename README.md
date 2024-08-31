@@ -18,33 +18,28 @@ Here are some ideas to get you started:
 
 [![bg][banner]][website]
 
-### senior frontend developer at [stripe][stripe] who likes emoji and typing in lowercase
+### an always curious web-dev-head, currently voluteering at [votewise][votewise] who likes neovim and typing in lowercase
 
-👨🏼‍💻 building [bradgarropy.com][website]  
+👨🏼‍💻 building [swrrvr.dev][website]  
 🧠 learning how to build SaaS products  
-💜 loving [typescript][typescript], [react][react], [remix][remix], [tailwind][tailwind], and [prisma][prisma]  
+💜 loving [typescript][typescript], [react][react], [node][node], [arch][arch], [neovim][neovim] 
 
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
 📺 [youtube][youtube] **|** 
-🎥 [twitch][twitch] **|** 
-📰 [newsletter][newsletter] **|** 
-📦 [npm][npm] **|** 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
+🎥 [twitch][twitch] **|**  
+👔 [linkedin][linkedin] **|**
 
 [banner]: https://raw.githubusercontent.com/bradgarropy/bradgarropy/master/banner.png
-[stripe]: https://stripe.com
+[votewise]: https://votewise.net/#!/welcome
 [typescript]: https://www.typescriptlang.org
 [react]: http://reactjs.org
-[remix]: https://remix.run
-[tailwind]: https://tailwindcss.com
-[prisma]: https://www.prisma.io
-[website]: https://bradgarropy.com
-[twitter]: https://twitter.com/bradgarropy
-[youtube]: https://youtube.com/bradgarropy
-[twitch]: https://twitch.tv/bradgarropy
-[newsletter]: https://bradgarropy.com/newsletter
-[instagram]: https://instagram.com/bradgarropy
-[linkedin]: https://linkedin.com/in/bradgarropy
-[npm]: https://npmjs.com/~bradgarropy
+[node]: https://nodejs.org/en
+[arch]: https://archlinux.org/
+[neovim]: https://neovim.io/
+[website]: https://swrrvr.dev
+[twitter]: https://twitter.com/swrrvr
+[youtube]: https://youtube.com/swrrvr
+[twitch]: https://twitch.tv/swrrvr
+[linkedin]: https://linkedin.com/in/irvindinkinsjr
+
