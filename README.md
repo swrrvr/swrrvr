@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 🎥 [twitch][twitch] **|**
 👔 [linkedin][linkedin]
 
-[banner]: https://github.com/swrrvr/swrrvr/blob/main/swappy-20240831-194921.png
+[banner]: https://github.com/swrrvr/swrrvr/blob/main/swappy-20240831-195401.png
 [votewise]: https://votewise.net/#!/welcome
 [typescript]: https://www.typescriptlang.org
 [react]: http://reactjs.org
