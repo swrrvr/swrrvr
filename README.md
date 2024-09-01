@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 
 [![bg][banner]][website]
 
-### an always curious neovim enjoyer, currently voluteering at [votewise][votewise]. hiring? reach me anytime 👇.
+### an always curious neovim enjoyer, currently voluteering at [votewise][votewise]. **hiring? reach me anytime 👇**.
 
 👨🏼‍💻 building [swrrvr.dev][website]  
-🙋 volunteering at votewise.net
-🧠 learning how to deliver value with software 
+🙋 volunteering at votewise.net  
+🧠 learning how to deliver value with software  
 💜 loving [typescript][typescript], [react][react], [node][node], [arch][arch], [neovim][neovim] 
 
 🏡 [website][website] **|** 
