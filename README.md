@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 [![bg][banner]][website]
 
-### an always curious neovim enjoyer, currently voluteering at [votewise][votewise]. **hiring? reach me anytime 👇**.
+### an always curious neovim enjoyer. **hiring? reach me anytime 👇**.
 
 👨🏼‍💻 building [swrrvr.dev][website]  
 🙋 volunteering at votewise.net  
